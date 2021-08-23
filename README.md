@@ -20,7 +20,7 @@ Projeyi klonladıktan sonra VS Code programında açınız.
 cd kodluyoruzilkrepo
 code .
 ```
-g
+
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen ilk önce neyi değiştirmek istediğinizi tartışmak için  bir konu açınız.
 
